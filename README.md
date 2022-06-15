@@ -19,6 +19,5 @@
 ![차선1](https://user-images.githubusercontent.com/39369255/173752822-b1c680a4-86a0-4cc5-855e-43fc5d0e3fcd.png)
 ![차선2](https://user-images.githubusercontent.com/39369255/173752828-2e66bc65-a88b-4e3f-9452-987c1290fce7.png)
 ![점자1](https://user-images.githubusercontent.com/39369255/173752834-08b46aef-e79a-4440-a69e-f81a91935e0e.PNG)
-![점자2](https://user-images.githubusercontent.com/39369255/173752842-a0583aa5-26ab-48b9-b36b-d29fb4a5cc28.PNG)
 
 
