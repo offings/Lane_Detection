@@ -7,6 +7,11 @@
 * OpenCV를 활용하여 차선 검출과 점자 블록 인식을 진행하여 시각장애인에게 안전한 보행 경로를 안내하고자 한다.
 
 ## 프로젝트 개발 내용
-* https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0
-![image](https://user-images.githubusercontent.com/39369255/173747551-3dccdea2-9817-4526-89a5-1cbad6faa2e8.png)
+* https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0 을 참고하여 차선 검출 진행
+* Grayscale 변환과 Canny Edge Detection을 이용하여 관심 영역의 Edge 파악
+* Hough 변환을 통해 차선으로 인식할 수 있는 직선 검출
+* MoviePy 라이브러리를 이용하여 동영상 파일에서 차선 검출 진행
+
+## 프로젝트 결과 사진
+
 
