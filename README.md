@@ -18,6 +18,6 @@
 ## 프로젝트 결과 사진
 ![차선1](https://user-images.githubusercontent.com/39369255/173752822-b1c680a4-86a0-4cc5-855e-43fc5d0e3fcd.png)
 ![차선2](https://user-images.githubusercontent.com/39369255/173752828-2e66bc65-a88b-4e3f-9452-987c1290fce7.png)
-![점자1](https://user-images.githubusercontent.com/39369255/173752834-08b46aef-e79a-4440-a69e-f81a91935e0e.PNG)
+![점자1](https://user-images.githubusercontent.com/39369255/173753317-3159b18b-4107-41b9-9002-6c3cc28f1ce3.PNG)
 
 
