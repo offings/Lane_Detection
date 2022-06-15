@@ -16,8 +16,7 @@ OpenCV를 활용하여 차선 검출과 점자 블록 인식을 진행하여 시
 * 점자 블록의 가장자리 검출을 통한 경로 안내
 
 ## 프로젝트 결과 사진
-![차선1](https://user-images.githubusercontent.com/39369255/173752822-b1c680a4-86a0-4cc5-855e-43fc5d0e3fcd.png)
-![차선2](https://user-images.githubusercontent.com/39369255/173752828-2e66bc65-a88b-4e3f-9452-987c1290fce7.png)
-![점자1](https://user-images.githubusercontent.com/39369255/173753317-3159b18b-4107-41b9-9002-6c3cc28f1ce3.PNG)
+![차선점자](https://user-images.githubusercontent.com/39369255/173758636-5612e656-cee5-442f-84c5-6a014b4f830b.png)
+
 
 
